@@ -5,14 +5,14 @@
 Collection of all my samples and toys on [GitHub](http://github.com/dwood-GGTCFC/)
 
 #**TABLE OF CONTENTS**
-*Installation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
-*Usage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
-*Contributing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
-*Credits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
-*License . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*
+*Installation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*   
+*Usage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*   
+*Contributing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*    
+*Credits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*     
+*License . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .*      
     
 #**INSTALLATION**
-> None Yet 
+> None Yet  
 > Keep watching this space...
 
 #**USAGE**
@@ -24,15 +24,14 @@ function fancyAlert(arg) {
        $.facebox({div:'#foo'})
     }
 }
-```
+```  
 To add additional syntax, consider using [GitHub Writing Standards](https://help.github.com/categories/writing-on-github/)
 
 #**CONTRIBUTING**
 @PapawGamer :+1:
  
 #**CREDITS**
-*@PapawGamer, initial developer :shipit:
-
+*@PapawGamer, initial developer :shipit:  
 *GitHub Guides, content suggesters and Best Practice references :muscle:
  
 #**LICENSE**
