@@ -1,5 +1,5 @@
 #**PROJECT NAME**
-##hello-world
+**HELLO-WORLD**
 
 #**DESCRIPTION**
 Collection of all my samples and toys on [GitHub](http://github.com/dwood-GGTCFC/)
@@ -32,6 +32,7 @@ To add additional syntax, consider using [GitHub Writing Standards](https://help
  
 #**CREDITS**
 *@PapawGamer, initial developer :shipit:
+
 *GitHub Guides, content suggesters and Best Practice references :muscle:
  
 #**LICENSE**
